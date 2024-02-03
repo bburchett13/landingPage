@@ -85,6 +85,7 @@ button {
 
 }
 
+
 .placeholder {
 
     background-color: grey;
@@ -167,5 +168,32 @@ button {
 #section4 {
 
     background-color: #3882F6;
+    margin:100px;
+    padding:50px;
+    justify-content: space-between;
+    border-radius: 16px;
+
+}
+
+.section4Title {
+
+    font-size:24px;
+    color: #F9FaF8;
+    font-weight: 800;
+
+}
+
+.section4Text {
+
+    font-size: 18px;
+    color:#E5E7EB;
+
+}
+
+#signUp2 {
+
+    border: 2px solid #F9FaF8;
+    border-radius: 8px;
+    color: #F9FaF8;
 
 }
