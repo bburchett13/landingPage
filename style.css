@@ -20,7 +20,7 @@ body {
     font-size: 24px;
     color: #F9FaF8;
     margin:0;
-    padding:0 450px;
+    padding:0 20%;
 
 }
 
@@ -48,7 +48,7 @@ a {
 .contentCard {
 
     display:flex;
-    padding: 100px 450px;
+    padding: 3% 20%;
 
 }
 
@@ -75,12 +75,19 @@ a {
 
 }
 
+.titleSubtext {
+
+    padding-bottom: 1%;
+
+}
+
 button {
 
     background-color: #3882F6;
-    border-radius:4px;
+    border-radius:8px;
     border:none;
     padding:10px 40px;
+    color: #F9FaF8;
 
 }
 
@@ -88,7 +95,7 @@ button {
 .placeholder {
 
     background-color: grey;
-    padding:100px;
+    padding:30%;
     color:#E5E7EB;
 
 }
@@ -117,7 +124,7 @@ button {
 .card {
 
     padding:16px;
-
+    text-align: center;
 
 }
 
@@ -149,7 +156,7 @@ button {
     font-weight: light;
     font-style:italic;
     align-self: flex-start;
-    padding: 0 150px;
+    padding: 0 15%;
 
 }
 
@@ -158,15 +165,15 @@ button {
     font-size: 20px;
     font-weight: bold;
     align-self: flex-end;
-    padding-right: 150px;
+    padding-right: 15%;
 
 }
 
 #section4 {
 
     background-color: #3882F6;
-    margin:100px 450px;
-    padding: 100px 200px;
+    margin: 3% 30%;
+    padding: 3% 3%;
     justify-content: space-between;
     border-radius: 16px;
 
@@ -190,8 +197,6 @@ button {
 #signUp2 {
 
     border: 2px solid #F9FaF8;
-    border-radius: 8px;
-    color: #F9FaF8;
 
 }
 
